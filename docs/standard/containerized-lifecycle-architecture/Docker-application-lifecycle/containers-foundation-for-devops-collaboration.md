@@ -59,7 +59,7 @@ Aqui estão alguns dos mais importantes benefícios fornecidos por um fluxo de t
 
 -   Entregar software de melhor qualidade, com mais rapidez e melhor conformidade
 
--   Unidade ajustes e melhoria contínua anteriormente e mais econômica
+-   Promova melhorias e ajustes contínuos mais cedo e economicamente
 
 -   Aumentar a transparência e colaboração entre participantes envolvidos na entrega e software operacional
 
